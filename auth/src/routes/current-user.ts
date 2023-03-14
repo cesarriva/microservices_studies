@@ -1,6 +1,5 @@
+import { currentUser } from "@crticketing/shared";
 import express from "express";
-import jwt from "jsonwebtoken";
-import { currentUser } from "../middlewares/current-user";
 
 const router = express.Router();
 
