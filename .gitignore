@@ -3,3 +3,7 @@
 /auth/node_modules
 /client/node_modules
 /client/.next
+
+/shared/node_modules
+/shared/build
+.DS_Store
